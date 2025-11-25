@@ -8,7 +8,8 @@ It provides an overview of our market entry and in-market representation service
   Summary of regional coverage, services, structure and collaboration steps.
 
 ## Contact
-CODADA - Market Entry Partner
+CODADA - Market Entry Partner 
+
 info@codada.com  
 www.codada.com
 
