@@ -1,4 +1,6 @@
-# CODADA Market Entry – Presentation
+<p align="left">
+  <img src="https://www.codada.com/assets/img/codada-logo.webp" alt="CODADA Logo" width="200" />
+</p># CODADA Market Entry – Presentation
 
 This repository contains the official CODADA presentation.  
 It provides an overview of our market entry and in-market representation services in Asia, the Middle East and Europe.
