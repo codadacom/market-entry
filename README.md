@@ -4,7 +4,7 @@
   </a>
 </p>
 
-# CODADA Market Entry – Presentation# CODADA Market Entry – Presentation
+# CODADA Market Entry – Presentation
  
 This repository contains the official CODADA presentation.  
 It provides an overview of our market entry and in-market representation services in Asia, the Middle East and Europe.
