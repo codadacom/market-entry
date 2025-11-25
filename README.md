@@ -1,7 +1,11 @@
 <p align="left">
-  <img src="https://www.codada.com/assets/img/codada-logo.webp" alt="CODADA Logo" width="200" />
-</p># CODADA Market Entry – Presentation
+<a href="https://www.codada.com" target="_blank" rel="noopener noreferrer">
+    <img src="https://www.codada.com/assets/img/codada-logo.webp" alt="CODADA Logo" width="220" />
+  </a>
+</p># CODADA Market Entry – Presentation# CODADA Market Entry – Presentation
+ 
 
+ 
 This repository contains the official CODADA presentation.  
 It provides an overview of our market entry and in-market representation services in Asia, the Middle East and Europe.
 
